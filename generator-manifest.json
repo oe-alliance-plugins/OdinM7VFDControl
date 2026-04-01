@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "vfd controller",
+  "description_recipe": "vfd controller",
+  "history_source_dir": "OdinM7VFDControl",
+  "internal_package_name": "enigma2-plugin-systemplugins-vfdcontrol",
+  "module_dir_name": "OdinM7VFDControl",
+  "output_subdir": "OdinM7VFDControl",
+  "package_name": "enigma2-plugin-systemplugins-vfdcontrol-odin-m7-v-f-d-control",
+  "plugin_src_rel": "OdinM7VFDControl",
+  "python_package": "OdinM7VFDControl",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "OdinM7VFDControl",
+  "rrecommends": "",
+  "rreplaces": ""
+}
