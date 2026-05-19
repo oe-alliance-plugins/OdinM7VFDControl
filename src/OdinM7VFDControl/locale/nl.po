@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ViX\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-07-31 10:10+0200\n"
 "Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
 "Language-Team: Andy Blackburn, Rob van der Does\n"
@@ -18,35 +18,46 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:178
 msgid "7-LED Display Setup"
 msgstr "7-LED-scherInstellingen"
 
+#: ../plugin.py:21
 msgid "Always off"
 msgstr "Altijd uit"
 
+#: ../plugin.py:189
 msgid "Cancel"
 msgstr "Annuleer"
 
+#: ../plugin.py:21
 msgid "Channelnumber in Standby Clock"
 msgstr "Zendernummer in stand-by klok"
 
+#: ../plugin.py:21
 msgid "Channelnumber in Standby off"
 msgstr "Zendernummer in stand-by uit"
 
+#: ../plugin.py:21
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Zendernummer/Klok in stand-by klok"
 
+#: ../plugin.py:21
 msgid "Clock always"
 msgstr "Klok altijd"
 
+#: ../plugin.py:263
 msgid "LED Display Setup"
 msgstr "LED-scherm instellen"
 
+#: ../plugin.py:190
 msgid "Save"
 msgstr "Sla op"
 
+#: ../plugin.py:202 ../plugin.py:216
 msgid "Show on display"
 msgstr "Toon op Scherm"
 
+#: ../plugin.py:204
 msgid "Time mode"
 msgstr "Tijd modus"

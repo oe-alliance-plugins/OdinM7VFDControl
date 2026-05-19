@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-15 13:10+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2019-02-15 13:10+0200\n"
 "Last-Translator: zukon\n"
 "Language-Team: \n"
@@ -14,37 +14,48 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Poedit 1.8.7\n"
 
+#: ../plugin.py:178
 msgid "7-LED Display Setup"
 msgstr "Ustawienia Wyświetlacza 7-LED"
 
+#: ../plugin.py:21
 msgid "Always off"
 msgstr "Zawsze wyłaczony"
 
 #
+#: ../plugin.py:189
 msgid "Cancel"
 msgstr "Anuluj"
 
+#: ../plugin.py:21
 msgid "Channelnumber in Standby Clock"
 msgstr "Numer kanału w Czuwaniu Zegar"
 
+#: ../plugin.py:21
 msgid "Channelnumber in Standby off"
 msgstr "Numer kanału w Czuwaniu wyłączony"
 
+#: ../plugin.py:21
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Numer kanału/Zegar w Czuwaniu Zegar"
 
+#: ../plugin.py:21
 msgid "Clock always"
 msgstr "Zawsze Zegar"
 
+#: ../plugin.py:263
 msgid "LED Display Setup"
 msgstr "Ustawienia Wyświetlacza LED"
 
 #
+#: ../plugin.py:190
 msgid "Save"
 msgstr "Zapisz"
 
+#: ../plugin.py:202 ../plugin.py:216
 msgid "Show on display"
 msgstr "Pokaż na wyświetlaczu"
 
+#: ../plugin.py:204
 msgid "Time mode"
 msgstr "Format czasu"

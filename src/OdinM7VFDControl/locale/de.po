@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-10-14 15:31+0200\n"
 "Last-Translator: Manfred Aabye <openmanniland@gmx.de>\n"
 "Language-Team: Deutsch <> j-ot&Trial\n"
@@ -14,35 +14,46 @@ msgstr ""
 "X-Generator: Poedit 2.2\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
+#: ../plugin.py:178
 msgid "7-LED Display Setup"
 msgstr "7-LED Display Setup"
 
+#: ../plugin.py:21
 msgid "Always off"
 msgstr "Immer aus"
 
+#: ../plugin.py:189
 msgid "Cancel"
 msgstr "Abbrechen"
 
+#: ../plugin.py:21
 msgid "Channelnumber in Standby Clock"
 msgstr "Kanalnummer im Standby Uhr"
 
+#: ../plugin.py:21
 msgid "Channelnumber in Standby off"
 msgstr "Kanalnummer im Standby aus"
 
+#: ../plugin.py:21
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Kanalnummer/Uhr im Standby Uhr"
 
+#: ../plugin.py:21
 msgid "Clock always"
 msgstr "Uhr immer anzeigen"
 
+#: ../plugin.py:263
 msgid "LED Display Setup"
 msgstr "LED Display Einstellungen"
 
+#: ../plugin.py:190
 msgid "Save"
 msgstr "Speichern"
 
+#: ../plugin.py:202 ../plugin.py:216
 msgid "Show on display"
 msgstr "Show auf Display"
 
+#: ../plugin.py:204
 msgid "Time mode"
 msgstr "Zeit Modus"
